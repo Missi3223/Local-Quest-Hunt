@@ -36,17 +36,3 @@ module.exports = function(app) {
     });
   });
 };
-// app.put("/complete", function(req, res) {
-//   db.Quest.update(req.body, {
-//     UserId: req.body.UserId,
-//     where: {
-//       Location: req.body.location
-//     }
-//   })
-//     .then(function(dbQuest) {
-//       res.json(dbQuest);
-//     })
-//     .catch(function(err) {
-//       console.log(err);
-//     });
-// });

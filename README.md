@@ -1,10 +1,10 @@
-# Quest Hunt
+# Local Quest Hunt
 
 ![Home Page](./public/images/log-in.png)
 
 ## Ready
 
-* Create log-in information if this is your first "Quest Hunt"
+* Create log-in information if this is your first " Local Quest Hunt"
 
 [Set-up account](./public/images/create-log-in.png)
 
@@ -18,7 +18,7 @@
 
 [Map](./public/images/map-demo.png)
 
-* Select a place on the map for more information about the "Quest Hunt"
+* Select a place on the map for more information about the "Local Quest Hunt"
 
 [Additional Map Information](./public/images/map-with-info.png)
 
@@ -35,7 +35,7 @@
 
 * Create stress free fun for all ages while promoting local businesses.
 
-* "Quest Hunter" promotes local businesses through a fun quest based system.  "Quest Hunter" allows locals/visitors an opportunity to discover what their community offers.
-* "Quest Hunter" rewards shoppers with local discounts while having fun (COMING SOON  release badges)
+* "Local Quest Hunt" promotes local businesses through a fun quest based system.  "Local Quest Hunt" allows locals/visitors an opportunity to discover what their community offers.
+* "Local Quest Hunt" rewards shoppers with local discounts while having fun (COMING SOON  release badges)
 
 ## HAPPY HUNTING
